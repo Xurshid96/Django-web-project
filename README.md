@@ -1,2 +1,2 @@
 # Django-web-project
- it's my firts project
+ it's my simplest and first project
